@@ -1,0 +1,7 @@
+
+
+I have implemented the python code for daily student attendence system and also I have designed the login page for teacher along with validation.
+login form is designed uisng html and css where username is <admin> and password is <admin>
+
+
+I have attached Dockerfile.
